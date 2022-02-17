@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jK6Ls+g7+PJQ1sbbEdo7EvEvVsUsNqPxt+O0ULl0DpDty05B3f8h8y34vKaWmIfzt1onwUtTpnjOzx63ksN7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ereta\\OneDrive\\Documents\\GitHub\\ProAvWeb\\TareaSemana3\\BootstrapHW\\BootstrapHW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ereta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
