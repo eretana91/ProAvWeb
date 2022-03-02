@@ -14,6 +14,6 @@ namespace BE.DAL.DO
         IEnumerable<T> GetAll();
         T GetOneById(int id);
         Task<IEnumerable<T>> GetAllAsync();
-        Task<T> GetByIdAsync(int id);
+        Task<T> GetOneByIdAsync(int id);
     }
 }

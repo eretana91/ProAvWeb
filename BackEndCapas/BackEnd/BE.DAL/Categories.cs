@@ -33,7 +33,7 @@ namespace BE.DAL
             throw new NotImplementedException();
         }
 
-        public Task<data.Categories> GetByIdAsync(int id)
+        public Task<data.Categories> GetOneByIdAsync(int id)
         {
             throw new NotImplementedException();
         }
@@ -46,11 +46,13 @@ namespace BE.DAL
         public void Insert(data.Categories t)
         {
             repo.Insert(t);
+            repo.Commit();
         }
 
         public void Update(data.Categories t)
         {
             repo.Update(t);
+            repo.Commit();
         }
 
         public void Commit(data.Categories t)

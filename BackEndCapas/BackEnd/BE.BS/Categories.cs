@@ -27,7 +27,7 @@ namespace BE.BS
 
         public IEnumerable<data.Categories> GetAll()
         {
-            _dal.GetAll();
+            return _dal.GetAll();
         }
 
         public Task<IEnumerable<data.Categories>> GetAllAsync()
@@ -35,7 +35,7 @@ namespace BE.BS
             throw new NotImplementedException();
         }
 
-        public Task<data.Categories> GetByIdAsync(int id)
+        public Task<data.Categories> GetOneByIdAsync(int id)
         {
             throw new NotImplementedException();
         }

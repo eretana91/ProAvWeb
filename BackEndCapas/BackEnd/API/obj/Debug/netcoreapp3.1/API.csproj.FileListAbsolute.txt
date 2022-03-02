@@ -50,7 +50,6 @@ C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\bin\D
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\BackEndCapas\BackEnd\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
