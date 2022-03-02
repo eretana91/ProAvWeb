@@ -1,0 +1,4 @@
+Scaffold-DbContext "Server=DESKTOP-AD92QR5;Database=Ulatskawa;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+    "GoodConnection": "Server=DESKTOP-AD92QR5;Database=Ulatskawa;Trusted_Connection=True;MultipleActiveResultSets=true"

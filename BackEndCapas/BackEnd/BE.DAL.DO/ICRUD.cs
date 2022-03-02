@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BE.DAL.DO
+{
+    public interface ICRUD<T>
+    {
+        void Insert(T t);
+        void Update(T t);
+        void Delete(T t);
+        void Commit (T t);
+        IEnumerable<T> GetAll();
+        T GetOneById(int id);
+        Task<IEnumerable<T>> GetAllAsync();
+        Task<T> GetByIdAsync(int id);
+    }
+}
