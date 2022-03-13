@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U/2YamOOIGB9UJiuRiQbX4jSaxBltFdhTbRRqjEEieQ68YYg9u2R+xPcDvam93VZz1OaWlTPPCTyW0hOS1n6ug==",
+  "dgSpecHash": "XnoXspDBHgOqFT94RlmJGbI20THy8rpQ7EOtNqy5kRCvwiHse8MmRd/DiQo102egZ+CcYn2iMB+VtfyyymxVRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ereta\\OneDrive\\Documents\\GitHub\\ProAvWeb\\BackEndCapas\\BackEnd\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -168,7 +168,8 @@
     "C:\\Users\\ereta\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ereta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ereta\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ereta\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\ereta\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\ereta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

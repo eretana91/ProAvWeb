@@ -80,3 +80,4 @@ C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\Tareas\Tareas\obj\Debug\net5.0
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\Tareas\Tareas\obj\Debug\net5.0\FrontEnd.pdb
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\Tareas\Tareas\obj\Debug\net5.0\FrontEnd.genruntimeconfig.cache
 C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\Tareas\Tareas\obj\Debug\net5.0\FrontEnd.csproj.CopyComplete
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\Tareas\Tareas\obj\Debug\net5.0\FrontEnd.csproj.AssemblyReference.cache

@@ -35,7 +35,12 @@
       "ProjectGuid": "65ef75e0-b2cf-4fd4-9923-fd0a8f12edb4",
       "DisplayName": "BE.DAL.Repository",
       "ColorIndex": 6
+    },
+    "7fa5417f-ed9a-47cd-984d-125b66917c89": {
+      "ProjectGuid": "7fa5417f-ed9a-47cd-984d-125b66917c89",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
