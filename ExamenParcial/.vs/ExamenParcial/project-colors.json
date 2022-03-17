@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bf660aa-b731-4ce0-aa54-d2ecb848b820": {
+      "ProjectGuid": "0bf660aa-b731-4ce0-aa54-d2ecb848b820",
+      "DisplayName": "API",
+      "ColorIndex": 0
+    },
+    "6c7e7caf-003d-411a-add3-94910441519b": {
+      "ProjectGuid": "6c7e7caf-003d-411a-add3-94910441519b",
+      "DisplayName": "BE",
+      "ColorIndex": 1
+    },
+    "e374689b-9d69-4b37-807e-5195f30aa188": {
+      "ProjectGuid": "e374689b-9d69-4b37-807e-5195f30aa188",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "d3151a01-f6f5-45e8-986c-d3e9edba7cf1": {
+      "ProjectGuid": "d3151a01-f6f5-45e8-986c-d3e9edba7cf1",
+      "DisplayName": "DAL.DO",
+      "ColorIndex": 3
+    },
+    "9ee67314-348c-4a2a-adff-89be16380722": {
+      "ProjectGuid": "9ee67314-348c-4a2a-adff-89be16380722",
+      "DisplayName": "DAL.EF",
+      "ColorIndex": 4
+    },
+    "946b3773-a01a-4caf-9e83-54f44558e995": {
+      "ProjectGuid": "946b3773-a01a-4caf-9e83-54f44558e995",
+      "DisplayName": "DAL.Repository",
+      "ColorIndex": 5
+    },
+    "1c4fc57f-fd0b-495e-a094-8b1918f95ed6": {
+      "ProjectGuid": "1c4fc57f-fd0b-495e-a094-8b1918f95ed6",
+      "DisplayName": "API.W",
+      "ColorIndex": 6
+    },
+    "7e58a5ef-d4d8-4b9f-bd43-f1de7392079b": {
+      "ProjectGuid": "7e58a5ef-d4d8-4b9f-bd43-f1de7392079b",
+      "DisplayName": "API",
+      "ColorIndex": 7
+    },
+    "64a3eb9f-6b16-4a93-af62-b6cf3f8aa6ed": {
+      "ProjectGuid": "64a3eb9f-6b16-4a93-af62-b6cf3f8aa6ed",
+      "DisplayName": "API.W",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}

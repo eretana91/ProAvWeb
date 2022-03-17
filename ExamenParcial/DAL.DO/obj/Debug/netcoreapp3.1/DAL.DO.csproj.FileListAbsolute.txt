@@ -1,0 +1,12 @@
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.deps.json
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.json
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.dev.json
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfoInputs.cache
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfo.cs
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.CoreCompileInputs.cache
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Users\ereta\OneDrive\Documents\GitHub\ProAvWeb\ExamenParcial\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.genruntimeconfig.cache
